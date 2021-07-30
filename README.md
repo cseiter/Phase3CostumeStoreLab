@@ -336,3 +336,4 @@ code, however, may break if the other migration files are empty.
 - [Timestamps][timestamps]
 
 [timestamps]: https://api.rubyonrails.org/classes/ActiveRecord/ConnectionAdapters/TableDefinition.html#method-i-timestamps
+# Phase3CostumeStoreLab
